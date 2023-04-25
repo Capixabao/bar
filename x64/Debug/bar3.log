@@ -1,0 +1,3 @@
+﻿  bar3.cpp
+C:\Users\rapha\source\repos\bar3\bar3.cpp(48,55): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+  bar3.vcxproj -> C:\Users\rapha\source\repos\bar3\x64\Debug\bar3.exe

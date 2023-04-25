@@ -1,0 +1,7 @@
+﻿  bar3.cpp
+C:\Users\rapha\source\repos\bar3\bar3.cpp(48,55): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+  Gerando código
+  Previous IPDB not found, fall back to full compilation.
+  All 21 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finalizada a geração de código
+  bar3.vcxproj -> C:\Users\rapha\source\repos\bar3\x64\Release\bar3.exe
